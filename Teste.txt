@@ -1,0 +1,856 @@
+27/08/2020 14:43 - As mensagens e as chamadas são protegidas com a criptografia de ponta a ponta e ficam somente entre você e os participantes desta conversa. Nem mesmo o WhatsApp pode ler ou ouvi-las. Toque para saber mais.
+27/08/2020 14:43 - Você criou o grupo "Grupo Python".
+27/08/2020 14:44 - Você adicionou +55 11 95461-8728
+27/08/2020 14:44 - +55 11 97656-4662: @5514996840418 coloca o Iago aí
+27/08/2020 14:44 - +55 11 97656-4662: @5511954618728 coloca seu amigo
+27/08/2020 14:44 - +55 11 95461-8728: Blzaa
+27/08/2020 14:45 - ‎+55 11 95461-8728 adicionou +55 11 94980-1499
+27/08/2020 14:45 - ‎+55 14 99684-0418 adicionou +55 19 99816-3392
+27/08/2020 14:46 - ‎+55 11 94980-1499 mudou a imagem do grupo
+27/08/2020 14:46 - +55 11 94980-1499: Salve grupo !
+27/08/2020 14:46 - +55 11 94980-1499: Tudo beleza
+27/08/2020 14:47 - +55 11 97656-4662: Oi time
+27/08/2020 14:47 - Seu código de segurança com +55 19 99816-3392 mudou. Toque para saber mais.
+27/08/2020 14:48 - +55 11 97656-4662: Procurei projetos simples em Python aqui e achei esse site https://devaprender.com/5-ideias-de-projetos-python-para-iniciantes/ achei o item 4 interessante
+27/08/2020 14:48 - +55 11 95461-8728: Salve
+27/08/2020 14:48 - +55 11 95461-8728: Entao
+27/08/2020 14:48 - +55 11 95461-8728: Eu qria uns dias pra gente debater sobre o projeto pq eu qria dar umas estudada antes no python
+27/08/2020 14:49 - +55 11 95461-8728: Pq eu nao manjo
+27/08/2020 14:49 - +55 11 95461-8728: Tipo no domingo sl
+27/08/2020 14:49 - +55 11 94980-1499: Eu vi um pouco de um curso só
+27/08/2020 14:49 - +55 11 97656-4662: Suavee
+27/08/2020 14:49 - +55 11 94980-1499: Mas eu tenho umas ideias de projeto tbm
+27/08/2020 14:49 - +55 11 94980-1499: Depois explico acho que vcs iam curtir e não é tão difícil
+27/08/2020 14:50 - +55 11 95461-8728: Mas eu ja achei interessante
+27/08/2020 14:54 - +55 14 99684-0418: Eu gostei tbmm
+27/08/2020 15:04 - +55 11 97656-4662: Time, já usei o Google colab em outra matéria e acho que ajuda bastante pra fazer coisa em grupo assim... Pq é igual o docs, ele salva e dá pra mais de uma pessoa editar e tal
+27/08/2020 15:05 - +55 11 97656-4662: Não sei se o trinket dá, mas acho que não
+27/08/2020 15:07 - +55 11 95461-8728: Tendi
+27/08/2020 15:07 - +55 11 95461-8728: Dmr
+27/08/2020 15:13 - +55 14 99684-0418: Top, mais fácil pra desenvolver o projeto
+01/09/2020 13:08 - +55 11 97656-4662: Galera, vcs viram algo sobre isso?
+01/09/2020 13:08 - +55 11 97656-4662: Não sei se viram q mandaram agr no grupo uma ideia igual a essa q eu tinha mandado
+01/09/2020 13:08 - +55 11 97656-4662: Vcs preferem mudar ou a gente conversa com o outro grupo e vê com o professor se tem problema?
+01/09/2020 13:09 - +55 11 94980-1499: Oi Juliana tudo bem ?
+01/09/2020 13:09 - +55 11 94980-1499: A gente ja decidiu o tema ?
+01/09/2020 13:10 - +55 11 97656-4662: Não, ninguém falou mais nada dps disso
+01/09/2020 13:10 - +55 11 94980-1499: Ah sim eu vi o link
+01/09/2020 13:10 - +55 11 94980-1499: Sobre o jogo né
+01/09/2020 13:11 - +55 11 94980-1499: Acho que é uma ideia boa, mas o pessoal de EF curte tanto que vão ter ideias parecidas
+01/09/2020 13:11 - +55 11 94980-1499: <Arquivo de mídia oculto>
+01/09/2020 13:12 - +55 11 94980-1499: <Arquivo de mídia oculto>
+01/09/2020 13:12 - +55 11 94980-1499: <Arquivo de mídia oculto>
+01/09/2020 13:14 - +55 11 95461-8728: Eu vi
+01/09/2020 13:14 - +55 11 95461-8728: Acho q nao tem problema mas eh bom pergunta pro prof
+01/09/2020 13:14 - +55 11 97656-4662: Tipo um GetNinjas no caso
+01/09/2020 13:15 - +55 11 97656-4662: Achei bom tb, mas me pareceu meio complicado kkkk
+01/09/2020 13:15 - +55 11 97656-4662: Podemos falar com o prof tb, ver o q ele acha
+01/09/2020 13:15 - +55 11 94980-1499: Não sabia que tinha, acabei de olhar parece bom o site
+01/09/2020 13:15 - +55 11 95461-8728: Eh boa tb, pelo menos por ser mais tecnico a gente nao tera o trabalho de desenvolver a historia e tals mas parace mais dificil de fazer
+01/09/2020 13:16 - +55 11 94980-1499: Eu acho que no caso de um app, envolve mais de uma linguagem
+01/09/2020 13:16 - +55 11 94980-1499: Eu ja trabalhei em MySQL com base de dados
+01/09/2020 13:16 - +55 11 94980-1499: Que serve pro app acessar as informações
+01/09/2020 13:16 - +55 11 94980-1499: A gente tem que fazer um projeto usando só python
+01/09/2020 13:17 - +55 11 97656-4662: Sim, tem isso tb
+01/09/2020 13:24 - +55 11 94980-1499: A gente tem que aprender mais sobre a linguagem
+01/09/2020 13:24 - +55 11 94980-1499: Oq é possível fazer com ela
+01/09/2020 13:26 - +55 11 97656-4662: Dá pra fazer muita coisa, puxar informações de .csv por exemplo, gerar tabelas e gráficos, criar listas, funções
+01/09/2020 13:30 - +55 11 97656-4662: Eu usei python em 2 outras disciplinas, uma tive que construir um sistema de apoio a decisão baseado em médias ponderadas (tinha alguns critérios com seus respectivos pesos e pra cada opção pra escolher tinha uma nota em cada um dos critérios), basicamente tinha um arquivo .csv pra puxar essas notas e pesos, e aí fazia os cálculos pra achar a nota (média ponderada) pra cada opção, gerei uns gráficos pra ilustrar tb
+01/09/2020 13:30 - +55 11 97656-4662: E o outro foi análise do coronavirus, puxei os dados do site do governo em .csv também, joguei lá e fiz gráficos e criei uns cálculos novos
+01/09/2020 13:31 - +55 11 97656-4662: Foram bem simples mesmo mas deram mtt trabalho kkk
+01/09/2020 13:31 - +55 11 94980-1499: Top esse do corona
+01/09/2020 13:31 - +55 11 94980-1499: Eu queria fazer algo desse tipo
+01/09/2020 13:31 - +55 11 94980-1499: Algo prático
+01/09/2020 13:32 - +55 11 94980-1499: Que desse pra usar as funções da linguagem pra ter algo daora pras pessoas
+01/09/2020 13:55 - +55 11 97656-4662: https://www.upgrad.com/blog/python-projects-ideas-topics-beginners/ achei esse site q tem um 42 ideias, de iniciante até avançado
+01/09/2020 13:55 - +55 11 97656-4662: 35. Plagiarism Checker
+
+Content writing is one of the most prolific online businesses. The market lacks a free tool that can be used to check for plagiarism in documents. You can use a natural language processing library along with the Google search API to create a program that searches the first few pages of Google and checks for plagiarism.
+01/09/2020 13:55 - +55 11 97656-4662: Achei daora essa
+01/09/2020 13:57 - +55 11 94980-1499: Esse é o que o professor usa pra ver se a gente não ta copiando código
+01/09/2020 13:57 - +55 11 97656-4662: Sério? Hahahahahh
+01/09/2020 14:03 - +55 11 94980-1499: Sim kkkkk
+01/09/2020 14:07 - +55 11 97656-4662: Pior que de programas que seriam úteis só achei esse legal kk
+01/09/2020 14:14 - +55 11 97656-4662: https://data-flair.training/blogs/python-project-ideas/ aqui tem vários jogos q dá pra fazer e alguns projetos q todos os sites sugerem
+02/09/2020 11:50 - +55 11 95461-8728: Esses sao mais pra usar de base neh?
+02/09/2020 11:59 - +55 11 97656-4662: Isso
+02/09/2020 11:59 - +55 11 97656-4662: É pra ter ideias msm
+02/09/2020 12:01 - +55 11 95461-8728: Saquei
+23/09/2020 14:10 - +55 11 94980-1499: Salve galera, tem um grande amigo meu sem grupo e queria saber se ele pode entrar no nosso ?
+23/09/2020 14:11 - +55 11 97656-4662: Por mim pode, é até quantas pessoas msm? 6?
+23/09/2020 14:11 - +55 11 94980-1499: Tem grupo com 6 com 5
+23/09/2020 14:12 - +55 11 94980-1499: Acho que nesse quesito é de boa
+23/09/2020 14:12 - +55 11 97656-4662: Suave então por mim
+23/09/2020 14:19 - +55 14 99684-0418: Por mim tbm
+23/09/2020 14:19 - +55 11 94980-1499: ‎Bruce.vcf (arquivo anexado)
+23/09/2020 14:19 - +55 11 94980-1499: Se puderem adc ele
+23/09/2020 14:20 - +55 11 97656-4662: Te coloquei de adm
+23/09/2020 14:21 - ‎+55 11 94980-1499 adicionou +55 19 98102-3366
+07/10/2020 17:30 - +55 11 97656-4662: Galera, a gente precisa definir o tema do trabalho
+07/10/2020 17:31 - +55 11 97656-4662: Alguém pensou em algo diferente do q tínhamos falado?
+07/10/2020 17:33 - +55 19 99816-3392: Eu vou ser bem sincero q nao tenho nenhuma ideia
+07/10/2020 17:33 - +55 19 99816-3392: nao sei o q vai ser facil ou dificil da gente fazer com o nosso conhecimento de python
+07/10/2020 17:33 - +55 19 99816-3392: entao to so aceitando
+07/10/2020 17:34 - +55 11 94980-1499: Eu tbm não tenho mta ideia
+07/10/2020 17:34 - +55 11 94980-1499: Mas a gente pode pensar em como nosso código pode contribuir na resolução de um problema
+07/10/2020 17:34 - +55 11 94980-1499: E partir dessa ideia
+07/10/2020 17:35 - +55 19 99816-3392: lembro q um grupo falou na aula q ia fazer um jogo
+07/10/2020 17:35 - +55 19 99816-3392: fiquei bem chocado
+07/10/2020 17:35 - +55 19 99816-3392: 1 semestre de programação ja fazer um joguinho
+07/10/2020 17:35 - +55 19 99816-3392: mds
+07/10/2020 17:35 - +55 11 94980-1499: Acho que é um jogo tipo RPG, com escolhas e variaveis
+07/10/2020 17:35 - +55 11 94980-1499: Tipo dados e probabilidades
+07/10/2020 17:35 - +55 11 97656-4662: Essa ideia q eles tiveram do jogo tem em vários sites, acho q deve ser relativamenter simples
+07/10/2020 17:35 - +55 11 94980-1499: Mas seloco eu não tenho vontade de fazer isso
+07/10/2020 17:39 - +55 19 99816-3392: Se nao for algo extremamente complexo eu acharia dahora fazer um jogo
+07/10/2020 17:41 - +55 11 95461-8728: Meu eu achei q seria mais de boa escolher o tema mas com o q eu sei de python agora nao tenho condicoes de pensar num tema kkkkk
+07/10/2020 17:41 - +55 11 95461-8728: Mas nao ligo se vcs escolherem qm ja fez algo de python
+07/10/2020 17:43 - +55 19 99816-3392: exato, eu so sei uns negocios tao simples
+07/10/2020 17:45 - +55 11 97656-4662: Eu vou procurar umas ideias no github
+08/10/2020 16:16 - +55 19 98102-3366: Galera, alguém já preencheu o forms?
+08/10/2020 16:17 - +55 19 98102-3366: Alguém que eh ADM pode mandar o link pra entrar no grupo? Quero add meu outro número
+08/10/2020 16:17 - +55 11 95461-8728: Mano
+08/10/2020 16:18 - +55 11 95461-8728: Precisa do numero usp de geral
+08/10/2020 16:18 - +55 19 98102-3366: Matheus da Fonte Laselva 8669136
+08/10/2020 16:18 - +55 14 99684-0418: Vanessa Tozelli - 9423231
+08/10/2020 16:19 - +55 11 97656-4662: Juliana Hita Pinto 9039973
+08/10/2020 16:19 - +55 11 95461-8728: Matheus da Fonte Laselva 8669136
+Vanessa Tozelli 9423231
+Juliana Hita Pinto 9039973
+Leonardo Kurokawa Sagara 10781536
+08/10/2020 16:24 - +55 11 94980-1499: Matheus da Fonte Laselva 8669136
+Vanessa Tozelli 9423231
+Juliana Hita Pinto 9039973
+Leonardo Kurokawa Sagara 10781536
+Guilherme Almeida Silva 10373771
+08/10/2020 16:28 - ‎+55 11 99202-1664 entrou usando o link de convite deste grupo
+08/10/2020 16:29 - +55 19 99816-3392: Matheus da Fonte Laselva 8669136
+Vanessa Tozelli 9423231
+Juliana Hita Pinto 9039973
+Leonardo Kurokawa Sagara 10781536
+Guilherme Almeida Silva 10373771
+Iago Machado Bonafé 9774528
+08/10/2020 16:29 - +55 19 99816-3392: Gente, ele nao tinha falado q era 4 ou no maximo 5 pessoas ?
+08/10/2020 16:30 - +55 11 94980-1499: sim e agr ?
+08/10/2020 16:32 - +55 11 99202-1664: Bom, eu fui o último a entrar. Vou perguntar se posso ficar nesse.
+Se ele se opor, eu troco de grupo
+08/10/2020 16:34 - +55 11 94980-1499: ferrou
+08/10/2020 16:34 - +55 11 99202-1664: Valeu gente. Vou ter que mudar de grupo
+08/10/2020 16:35 - +55 11 99202-1664: Bom, vou ficar aqui até sair a lista lá. Vai que todos já tem 5
+08/10/2020 16:35 - +55 11 99202-1664: Aí eu fico aqui kk
+08/10/2020 16:40 - +55 11 94980-1499: esse exercicio de agora é pra entregar?
+08/10/2020 16:43 - +55 11 99202-1664: Acho que é só pra tentar mesmo
+08/10/2020 17:29 - +55 11 97656-4662: Galera
+08/10/2020 17:29 - +55 11 97656-4662: Tava procurando ideias no github durante a aula
+08/10/2020 17:29 - +55 11 97656-4662: Achei duas interessantes mas que não sei se tá dentro do nível de dificuldade da matéria kkk
+08/10/2020 17:30 - +55 11 97656-4662: Uma é essa https://github.com/melvin-02/UNO-game que é um UNO, o jogo msm, eu joguei e achei legalzinho kkk
+A outra é essa https://github.com/subahanii/whatsapp-Chat-Analyzer que é um programa que analisa a atividade em um grupo de whatsapp kkk eu não testei mas achei engraçado
+08/10/2020 17:34 - +55 11 97656-4662: Pensei em falar com ele no fim da aula, que estamos tendo dificuldade de decidir um tema e tal e que achamos isso no github
+08/10/2020 17:34 - +55 11 97656-4662: Ver o q ele acha
+08/10/2020 17:34 - +55 11 95461-8728: Algm mandou os nomes?
+08/10/2020 17:35 - +55 19 99816-3392: Eu nao
+08/10/2020 17:35 - +55 11 95461-8728: Acho eh a ideia
+08/10/2020 17:35 - +55 19 99816-3392: pode ser, é uma boa
+08/10/2020 17:35 - +55 11 97656-4662: A gente tem q decidir o tema pra mandar lá, não? kk
+08/10/2020 17:36 - +55 11 95461-8728: Sim pensei depois kkk
+08/10/2020 17:36 - +55 19 99816-3392: Eu gostei do uno
+08/10/2020 17:36 - +55 19 99816-3392: tava pensando aqui e parece simples de programas
+08/10/2020 17:36 - +55 19 99816-3392: nao tem nenhum grande desafio
+08/10/2020 17:37 - +55 19 99816-3392: é so verificar se a cor e numero das cartas sao iguais pra vc colocar ela
+08/10/2020 17:37 - +55 19 99816-3392: as cartas especiais vc cria uma function pra ela e nenhuma parece tao problematica de criar
+08/10/2020 17:37 - +55 19 99816-3392: achei legal
+08/10/2020 17:38 - +55 14 99684-0418: Gostei bastante das duas ideiasss
+08/10/2020 17:39 - +55 11 97656-4662: Isso, eu acho q deve ser mais simples q o do whatsapp
+08/10/2020 17:40 - +55 19 99816-3392: sim, eu nao entendi direito oq  iria analizar no grupo do whats
+08/10/2020 17:41 - +55 19 99816-3392: depende disso pra saber se é complexo ou nao
+08/10/2020 17:41 - +55 11 97656-4662: Atividade de cada membro, número de mensagens, imagens, etc
+08/10/2020 17:41 - +55 11 94980-1499: Essa ideia do uno é boa
+08/10/2020 17:41 - +55 11 94980-1499: Podiamos até expandir pro truco
+08/10/2020 17:41 - +55 11 94980-1499: Kkkk
+08/10/2020 17:42 - +55 11 97656-4662: kkkk truco ia ser complexo eu acho
+08/10/2020 17:42 - +55 11 94980-1499: Teria que ordenar as cartas do 4 ao 3 respeitando as manilhas
+08/10/2020 17:42 - +55 11 94980-1499: Opção de pedir truco e seis
+08/10/2020 17:42 - +55 19 99816-3392: ah, acho q nem tanto
+08/10/2020 17:42 - +55 11 94980-1499: Mas vamos no mais simples por agora
+08/10/2020 17:43 - +55 11 94980-1499: Vcs que sabem
+08/10/2020 17:43 - +55 11 97656-4662: É q o truco tem mais fatores q uno pra considerar
+08/10/2020 17:43 - +55 11 97656-4662: Tem manilhas, os naipes, tem q dar pra pedir truco, 6, 9 , 12
+08/10/2020 17:44 - +55 11 94980-1499: Eu pensei em algo agora tbm
+08/10/2020 17:44 - +55 11 94980-1499: Que tem tudo a ver com computação científica
+08/10/2020 17:44 - +55 19 99816-3392: Ah, parece dahora tbm
+08/10/2020 17:44 - +55 19 99816-3392: se for so isso
+08/10/2020 17:45 - +55 11 94980-1499: <Arquivo de mídia oculto>
+08/10/2020 17:46 - +55 11 97656-4662: É parecido com o q um grupo mandou lá de álgebra linear sepa, não?
+08/10/2020 17:46 - +55 11 97656-4662: Só q no caso pra física
+08/10/2020 17:46 - +55 11 94980-1499: Putz não acompanhei
+08/10/2020 17:47 - +55 11 97656-4662: Eu acho q vcs devem gostar de fisica por motivos óbvios, eu odeio kkkkkkk então prefiro uno
+08/10/2020 17:47 - +55 11 94980-1499: Hahahah
+08/10/2020 17:47 - +55 11 94980-1499: É que eu imagino que bastaria os conhecimentos de cientifica em python
+08/10/2020 17:47 - +55 11 94980-1499: Algumas formulas e resultados
+08/10/2020 17:47 - +55 11 94980-1499: Mas o uno é mto boa
+08/10/2020 17:47 - +55 11 94980-1499: E mais simples
+08/10/2020 17:49 - +55 19 99816-3392: Por mim bora de Uno q é sucesso
+08/10/2020 17:49 - +55 19 99816-3392: ou se quiserem pode ser o do whats tbm
+08/10/2020 17:49 - +55 11 97656-4662: Eu queria de vdd achar alguma coisa com analise de dados, que a gente pudesse pegar um conjunto de dados e fazer uma analise automática... mas o que achei sobre isso era muuuito além eu acho
+08/10/2020 17:50 - +55 19 99816-3392: o do whats é tipo isso
+08/10/2020 17:50 - +55 19 99816-3392: nao é
+08/10/2020 17:50 - +55 11 97656-4662: Acho q de certa forma sim
+08/10/2020 17:51 - +55 19 99816-3392: se quiser
+08/10/2020 17:51 - +55 19 99816-3392: pode ser esse por mim
+08/10/2020 17:52 - +55 11 95461-8728: Achei bom tb
+08/10/2020 17:52 - +55 11 94980-1499: Esse do whats seria util pra mim até nos projetos da entidade
+08/10/2020 17:53 - +55 11 97656-4662: Posso ver com ele se ele acha q é viável pra gente fazer esse do whats e se não a gente mantem o uno, o q vcs acham?
+08/10/2020 17:53 - +55 19 99816-3392: por mim feshow
+08/10/2020 17:53 - +55 11 95461-8728: Por mim tb
+08/10/2020 17:54 - +55 11 95461-8728: Ja vamo perguntar dos dois
+08/10/2020 17:58 - +55 11 97656-4662: Vcs ouviram a conversa? kkk
+08/10/2020 17:58 - +55 14 99684-0418: Ouvii
+08/10/2020 17:58 - +55 11 95461-8728: Yess
+08/10/2020 17:58 - +55 11 95461-8728: Eh iss entao
+08/10/2020 17:58 - +55 14 99684-0418: Acho que vamos de whats né hahaha
+08/10/2020 17:58 - +55 19 99816-3392: bora de whats
+08/10/2020 17:59 - +55 11 97656-4662: Fechou
+08/10/2020 17:59 - +55 11 97656-4662: Vou mandar no forms lá, ok?
+08/10/2020 17:59 - +55 11 97656-4662: <Arquivo de mídia oculto>
+08/10/2020 17:59 - +55 11 97656-4662: Olhem, eu exportei nossa conversa
+08/10/2020 17:59 - +55 11 97656-4662: Fica assim
+08/10/2020 18:00 - +55 11 97656-4662: Ta em espanhol as msgs do sistema pq meu celular ta em espanhol kkk
+08/10/2020 18:00 - +55 11 95461-8728: Fera
+08/10/2020 18:01 - +55 14 99684-0418: Ook
+08/10/2020 18:03 - +55 11 97656-4662: @5511992021664 vc vai sair né?
+08/10/2020 18:04 - +55 11 97656-4662: Gente tem 2 Matheus Laselva kkk
+08/10/2020 18:04 - +55 11 97656-4662: QUal é o oficial?
+08/10/2020 18:04 - +55 11 99202-1664: Vou ter que sair. Os dois números são meus. É que quando estou na empresa uso esse
+08/10/2020 18:05 - +55 11 99202-1664: Vou sair do grupo. 
+valeu!
+08/10/2020 18:05 - ‎+55 11 99202-1664 saiu
+08/10/2020 18:05 - ‎+55 19 98102-3366 saiu
+08/10/2020 18:06 - +55 11 97656-4662: Mandei lá, time 🙌
+08/10/2020 18:09 - +55 14 99684-0418: <Arquivo de mídia oculto>
+08/10/2020 18:11 - +55 11 95461-8728: Nice temos um rumo kkkkkkk
+08/10/2020 18:11 - +55 11 94980-1499: Ufaa
+08/10/2020 18:11 - +55 11 97656-4662: É isso kkkk
+08/10/2020 18:11 - +55 11 94980-1499: Yess
+08/10/2020 18:11 - +55 11 94980-1499: <Arquivo de mídia oculto>
+08/10/2020 18:11 - +55 11 94980-1499: <Arquivo de mídia oculto>
+18/10/2020 20:16 - +55 11 94980-1499: Fala pessoal
+18/10/2020 20:16 - +55 11 94980-1499: Vamos trabalhar com o whats né ?
+18/10/2020 20:16 - +55 11 94980-1499: Eu pensei em ter uma função que seria mto legal
+18/10/2020 20:16 - +55 11 94980-1499: Vc programar uma mensagem pra um horário específico
+18/10/2020 20:17 - +55 11 94980-1499: Tipo quero dar bom dia para o grupo do trabalho e enviar uma mensagem importante as 07:00
+18/10/2020 20:17 - +55 11 94980-1499: Conectar talvez no whatsapp web e enviar essa msg
+18/10/2020 20:17 - +55 11 94980-1499: Vcs acham interessante ?
+18/10/2020 20:21 - +55 11 97656-4662: Acho bem daora
+18/10/2020 20:21 - +55 11 97656-4662: Não sei como fazer mas acho legal
+18/10/2020 20:33 - +55 11 94980-1499: Eu sei que existe uma função no excel que envia email de acordo com o horário
+18/10/2020 20:33 - +55 11 94980-1499: Então deve dar pra fazer algo parecido no whatsapp
+18/10/2020 20:41 - +55 11 97656-4662: Ahamm
+18/10/2020 21:29 - +55 11 95461-8728: Dhr
+18/10/2020 21:33 - +55 19 99816-3392: Curti sim
+18/10/2020 21:33 - +55 19 99816-3392: e nao parece tao complexo
+18/10/2020 21:33 - +55 19 99816-3392: acho ok
+20/10/2020 14:05 - +55 11 94980-1499: <Arquivo de mídia oculto>
+20/10/2020 14:05 - +55 11 94980-1499: <Arquivo de mídia oculto>
+20/10/2020 14:05 - +55 11 94980-1499: Pita vdd pode ser criptografado
+20/10/2020 14:05 - +55 11 94980-1499: É um projeto que vc aprende fazendo
+20/10/2020 14:05 - +55 11 94980-1499: Msgs de um bom veterano que manja do assunto
+20/10/2020 19:22 - +55 19 99816-3392: Nossa, nice demais
+04/11/2020 22:08 - +55 11 94980-1499: Salve grupinho
+04/11/2020 22:08 - +55 11 94980-1499: <Arquivo de mídia oculto>
+04/11/2020 22:08 - +55 11 94980-1499: Vcs conseguiram esse 9 da lista 2
+04/11/2020 22:08 - +55 11 94980-1499: Não to maniando
+04/11/2020 22:12 - +55 14 99684-0418: eu tava tentando aqui mas não cosnegui tbm ):
+04/11/2020 22:13 - +55 14 99684-0418: você fez a 1? Queria comparar os valores que achei kkk
+04/11/2020 22:15 - +55 11 95461-8728: to tentando agora mas ta impossivel
+04/11/2020 22:18 - +55 11 94980-1499: Fiz
+04/11/2020 22:18 - +55 11 94980-1499: Vou te passar
+04/11/2020 22:18 - +55 11 94980-1499: Perai
+04/11/2020 22:20 - +55 11 95461-8728: qnto deu??
+04/11/2020 22:20 - +55 11 94980-1499: Calma ae que os códigos tão com minha dupla
+04/11/2020 22:25 - +55 11 94980-1499: <Arquivo de mídia oculto>
+04/11/2020 22:25 - +55 11 94980-1499: <Arquivo de mídia oculto>
+04/11/2020 22:25 - +55 11 94980-1499: Achei a resolução do 9
+04/11/2020 22:25 - +55 11 94980-1499: Vou tentar codar
+04/11/2020 22:25 - +55 11 94980-1499: Se alguém quiser fazer tbm e ajudar
+04/11/2020 22:25 - +55 11 94980-1499: A 1 eu mando jaja
+04/11/2020 22:26 - +55 11 95461-8728: manda o link pfff
+04/11/2020 22:27 - +55 14 99684-0418: uuh boa
+04/11/2020 23:06 - +55 11 94980-1499: #metodo da bissecção
+
+import numpy as np
+def f(x): # função da qual se quer achar a raiz
+  return np.cos(x)
+def bissec(func, a, b, prec=1e-9): # função com o algoritmo da bisssecção
+  erro = b - a
+  i=0
+  while erro > prec:
+    c = .5 * (a + b)
+    i+=1
+    if func(a) * func(c) > 0:
+      a = c
+    else:
+      b = c
+    erro /= 2
+  return (f'No método da bissecção foram necessários {i} interações para chegar a raíz {c}')
+sol = bissec(f, 0.5, 2.0)
+print(sol)
+#print(f'No método da bissecção foram necessários {sol} interações')
+
+
+
+
+# metodo N-H
+def df(x): # a derivada
+  return -np.sin(x)
+def newton(func, deriv, x0, tol=1e-9): # função com o algoritmo de Newton-Raphson
+  f = func(x0)
+  i=0
+  while abs(f) > tol:
+    df = deriv(x0)
+    x0 -= f / df
+    f = func(x0)
+    i+=1
+  return (f'No método da bissecção foram necessários {i} interações para chegar a raíz {x0}')
+sol = newton(f, df, 1) # "chute" inicial: x0 = 1
+print(sol)
+04/11/2020 23:06 - +55 11 94980-1499: É esse ? 1 da lista 2
+04/11/2020 23:11 - +55 14 99684-0418: issoo
+04/11/2020 23:12 - +55 11 94980-1499: Boa
+04/11/2020 23:12 - +55 11 94980-1499: Se alguém conseguir o 9
+04/11/2020 23:12 - +55 11 94980-1499: To precisando bastante
+19/11/2020 16:34 - +55 11 95461-8728: Ele ta perguntando sobre os projetos na aula
+19/11/2020 16:35 - +55 11 97656-4662: Eu n to na aula
+19/11/2020 16:35 - +55 11 95461-8728: Vo falar q nao comecamos ainda q apenas discutimos ideias
+19/11/2020 16:35 - +55 11 95461-8728: Alias tem pouco tempo hein 3 semanas soh kkkkk
+19/11/2020 16:36 - +55 14 99684-0418: Sim hauahau acho legal tentar dividir as tarefas
+19/11/2020 16:38 - +55 19 99816-3392: gente, fiquei chocado, tem bem pouco tempo
+19/11/2020 16:38 - +55 19 99816-3392: agora fiquei com medo
+19/11/2020 16:38 - +55 19 99816-3392: pq ainda nao tenho muito na minha cabeça como fazer as coisas nao
+19/11/2020 16:39 - +55 19 99816-3392: principalmente a interface do programa
+19/11/2020 16:39 - +55 11 94980-1499: Vai dar bom galera só precisamos fazer acontecr
+19/11/2020 16:39 - +55 11 95461-8728: Eu nao sabia tb q faltava tao pouco
+19/11/2020 16:40 - +55 11 97656-4662: Pelo q ele tinha falado não precisa ser muito visual
+19/11/2020 16:40 - +55 11 97656-4662: Mas tem pouco tempo msm
+24/11/2020 16:20 - +55 19 99816-3392: Gente, bora começar o trabalho
+24/11/2020 16:20 - +55 19 99816-3392: so tem mais 2 semanas
+24/11/2020 16:20 - +55 19 99816-3392: alguem ai tem alguma ideia de como fazer ??
+24/11/2020 16:20 - +55 19 99816-3392: quais passos a gente precisa seguir e tals ?
+24/11/2020 16:27 - +55 11 97656-4662: 1- *Tratar os dados:*
+*pegar só a sequência do número de telefone, data e hora e excluir o texto da mensagem
+*separar os dados em um dataframe
+2- *Fazer as análises:*
+*Contar quantas mensagens cada número enviou
+*Plotar histograma com a atividade de cada número 
+*Quais foram os dias mais ativos (datas que apareceram mais)
+24/11/2020 16:28 - +55 11 97656-4662: Pensei nisso
+24/11/2020 16:39 - +55 11 97656-4662: Eu posso começar a fazer o tratamento dos dados
+24/11/2020 16:42 - +55 19 99816-3392: Eu tbm posso, mas tipo, pergunta idiota, mas onde q a gente programa isso ??
+24/11/2020 16:42 - +55 19 99816-3392: pq imagino q programar no site do professor nao rola
+24/11/2020 16:42 - +55 19 99816-3392: e ate agora eu fiz tudo la
+24/11/2020 16:42 - +55 11 97656-4662: Acho que o colab é o melhor lugar pra fazer
+24/11/2020 16:42 - +55 11 94980-1499: Instala o python no PC
+24/11/2020 16:42 - +55 11 94980-1499: Ou usa o colab
+24/11/2020 16:43 - +55 11 94980-1499: Boa
+24/11/2020 17:29 - +55 11 95461-8728: *Contar quantas mensagens cada número enviou
+*Plotar histograma com a atividade de cada número 
+*Quais foram os dias mais ativos (datas que apareceram mais
+24/11/2020 17:29 - +55 11 95461-8728: isso aqui tem q fazer braçal??
+24/11/2020 17:32 - +55 11 97656-4662: Não kkk criar função pra fazer
+24/11/2020 17:33 - +55 11 95461-8728: Eu soh nao entendi como a gente vai importar os dados do whats
+24/11/2020 17:34 - +55 11 94980-1499: Meu veterano falou que tem uns dados do whatsapp das mensagens
+24/11/2020 17:34 - +55 11 94980-1499: Só não sei se da pra puxar isso por causa da criptografia
+24/11/2020 17:49 - +55 11 97656-4662: Você apagou essa mensagem
+24/11/2020 17:49 - +55 11 97656-4662: <Arquivo de mídia oculto>
+24/11/2020 17:50 - +55 11 97656-4662: Exporta em txt
+24/11/2020 17:50 - +55 11 97656-4662: Só ir nas configurações
+24/11/2020 17:50 - +55 11 95461-8728: nice
+24/11/2020 17:51 - +55 11 95461-8728: eh iss o trab entao??
+24/11/2020 17:53 - +55 11 97656-4662: Sim
+24/11/2020 17:56 - +55 11 95461-8728: Eu posso fazer a primeira parte da analise e ajudar em mais alguma coisa caso algm precise
+26/11/2020 14:29 - +55 11 94980-1499: Qual numero do nosso grupo
+26/11/2020 14:30 - +55 19 99816-3392: @5514996840418 @5511949801499 o professor ta pedindo pra vcs entrarem na no grupo do discord com o nome de vcs pra ele add vcs no grupo
+26/11/2020 14:30 - +55 19 99816-3392: https://discord.gg/WS9kCRpx
+26/11/2020 14:30 - +55 19 99816-3392: vixe, nao sei nao
+26/11/2020 14:31 - +55 19 99816-3392: aparentemente somos o 9
+26/11/2020 14:31 - +55 11 94980-1499: Entrei agora com meu nome no discord
+26/11/2020 14:31 - +55 11 94980-1499: Beleza
+26/11/2020 14:43 - +55 19 99816-3392: Q q vamos perguntar pro prof ?
+26/11/2020 14:43 - +55 14 99684-0418: Entrei agee
+26/11/2020 14:44 - +55 14 99684-0418: Agr*
+26/11/2020 14:44 - +55 11 97656-4662: Eu preciso perguntar um negócio
+26/11/2020 14:44 - +55 19 99816-3392: blz
+26/11/2020 14:44 - +55 11 97656-4662: Avisa ele pra ele te colocar no nosso grupo
+26/11/2020 14:44 - +55 19 99816-3392: Vou ser sincero q eu to bem perdido em tudo
+26/11/2020 14:44 - +55 19 99816-3392: Meu cerebro nao ta conseguindo ligar as coisas q a gente aprendeu com um aplicativo pronto, nao sei pq, isso ainda parece muito nebuloso pra mim
+26/11/2020 14:45 - +55 11 97656-4662: Eu tentei começar a fazer o tratamento dos dados, mas a gente tem um arquivo .txt e eu quero converter ele em um dataframe, só que to com dificuldade pra fazer isso
+26/11/2020 14:45 - +55 11 97656-4662: Vou perguntar pra ele como faço
+26/11/2020 14:46 - +55 11 94980-1499: A gente não precisa da aplicação com intercace
+26/11/2020 14:46 - +55 11 94980-1499: Interface
+26/11/2020 14:46 - +55 11 94980-1499: Só uma maneira do usuário usar
+26/11/2020 14:46 - +55 11 94980-1499: Literalmente kkk
+26/11/2020 14:47 - +55 11 97656-4662: Sim, não é um aplicativo
+26/11/2020 14:47 - +55 11 97656-4662: A gente vai colocar lá o arquivo .txt extraído daqui do whats e ele vai retornar uns gráficos e umas informações
+26/11/2020 14:48 - +55 11 97656-4662: É bem simples na vdd, acho q essa primeira parte que é pra tratar os dados é o mais difícil sepa
+26/11/2020 14:48 - +55 11 97656-4662: Depois é como se vc pegasse uma tabela (dataframe) e fizesse gráficos a partir dela
+26/11/2020 14:49 - +55 11 97656-4662: Mandar o python contar quantas vezes aparece o msm número, quais são os números q aparecem, etc
+26/11/2020 14:49 - +55 11 95461-8728: Eu to bem nessa tb
+26/11/2020 14:49 - +55 11 97656-4662: acho que no fim a gente vai usar só as bibliotecas pandas e matplotlib sepa
+26/11/2020 14:49 - +55 11 95461-8728: Eu ate gostaria q a gente dividisse o mais rapido possivel o q cada um vai fazer pq eu vou ter q aprender primeiro
+26/11/2020 14:54 - +55 19 99816-3392: Sim, a parte de logica parece bem simples
+26/11/2020 14:54 - +55 19 99816-3392: o q meu cerebro buga é na execução
+26/11/2020 14:55 - +55 19 99816-3392: pq logicamente é so verificar qual numero q mandou o q e adicionar em uma contagem
+26/11/2020 14:55 - +55 19 99816-3392: e pronto
+26/11/2020 14:57 - +55 11 97656-4662: 1- Tratar os dados (fazer o dataframe)
+2 - Filtrar os dados (excluir informações irrelevantes)
+3 - Fazer as análises sem gráficos
+*Mostrar quais números tem
+*Contar quantas mensagens tem no total
+*Contar quantas vezes aparece o mesmo número (quantas mensagens a msm pessoa mandou)
+4- Fazer os gráficos
+*Histograma (número x total de mensagens por número)
+*Mostrar os dias de maior atividade (datas q aparecem mais)
+5- Fazer mais gráficos
+*Quantas mídias foram enviadas
+*Quais os horários de maior atividade
+26/11/2020 14:57 - +55 11 97656-4662: Acho q podemos dividir assim
+26/11/2020 14:58 - +55 11 97656-4662: Eu só coloquei alguns gráficos q pensei
+26/11/2020 14:58 - +55 11 97656-4662: Mas nada impede de mudar, se alguém tiver outras ideias ou achar alguma delas ruim
+26/11/2020 14:58 - +55 11 97656-4662: 1- Tratar os dados (fazer o dataframe) - *Ju*
+2 - Filtrar os dados (excluir informações irrelevantes)
+3 - Fazer as análises sem gráficos
+*Mostrar quais números tem
+*Contar quantas mensagens tem no total
+*Contar quantas vezes aparece o mesmo número (quantas mensagens a msm pessoa mandou)
+4- Fazer os gráficos
+*Histograma (número x total de mensagens por número)
+*Mostrar os dias de maior atividade (datas q aparecem mais)
+5- Fazer mais gráficos
+*Quantas mídias foram enviadas
+*Quais os horários de maior atividade
+26/11/2020 15:10 - +55 14 99684-0418: Pra mim tá top
+26/11/2020 15:11 - +55 14 99684-0418: 1- Tratar os dados (fazer o dataframe) - *Ju*
+2 - Filtrar os dados (excluir informações irrelevantes) - *Nessa* 
+3 - Fazer as análises sem gráficos
+*Mostrar quais números tem
+*Contar quantas mensagens tem no total
+*Contar quantas vezes aparece o mesmo número (quantas mensagens a msm pessoa mandou)
+4- Fazer os gráficos
+*Histograma (número x total de mensagens por número)
+*Mostrar os dias de maior atividade (datas q aparecem mais)
+5- Fazer mais gráficos
+*Quantas mídias foram enviadas
+*Quais os horários de maior atividade
+26/11/2020 15:13 - +55 19 99816-3392: 1- Tratar os dados (fazer o dataframe) - *Ju*
+2 - Filtrar os dados (excluir informações irrelevantes) - *Nessa* 
+3 - Fazer as análises sem gráficos *Iago*
+*Mostrar quais números tem
+*Contar quantas mensagens tem no total
+*Contar quantas vezes aparece o mesmo número (quantas mensagens a msm pessoa mandou)
+4- Fazer os gráficos
+*Histograma (número x total de mensagens por número)
+*Mostrar os dias de maior atividade (datas q aparecem mais)
+5- Fazer mais gráficos
+*Quantas mídias foram enviadas
+*Quais os horários de maior atividade
+26/11/2020 15:45 - +55 11 94980-1499: 1- Tratar os dados (fazer o dataframe) - *Ju*
+2 - Filtrar os dados (excluir informações irrelevantes) - *Nessa* 
+3 - Fazer as análises sem gráficos *Iago*
+*Mostrar quais números tem
+*Contar quantas mensagens tem no total
+*Contar quantas vezes aparece o mesmo número (quantas mensagens a msm pessoa mandou)
+4- Fazer os gráficos *Guilherme*
+*Histograma (número x total de mensagens por número)
+*Mostrar os dias de maior atividade (datas q aparecem mais)
+5- Fazer mais gráficos
+*Quantas mídias foram enviadas
+*Quais os horários de maior atividade
+26/11/2020 15:53 - +55 19 99816-3392: Eu acho q essa última parte ao invés de ser fazer mais graficos
+26/11/2020 15:54 - +55 19 99816-3392: Podia ser aquele negocio de mandar a msg no grupo automaticamente
+26/11/2020 15:54 - +55 19 99816-3392: Tipo programar "Mande bom dia as 6 da manhã no grupo tal"
+26/11/2020 15:54 - +55 19 99816-3392: Isso é um recurso legal pra ter
+26/11/2020 15:55 - +55 11 97656-4662: Pode ser tb por mim
+26/11/2020 16:22 - +55 19 99816-3392: professor ja ta fazendo a boa pra @5511976564662
+26/11/2020 16:23 - +55 19 99816-3392: resolvendo quase tudo
+26/11/2020 16:23 - +55 19 99816-3392: SAUHSUAHSUASUAHSUHA
+26/11/2020 16:23 - +55 11 94980-1499: Prof mandou mto bem na explicação
+26/11/2020 16:23 - +55 11 94980-1499: Boa eu posso ficar com essa parte
+26/11/2020 16:24 - +55 11 94980-1499: Essa ideia que trouxemos é boa e da pra fazer em conjunto do excel
+26/11/2020 16:25 - +55 11 97656-4662: Nem precisa de excel
+26/11/2020 16:25 - +55 11 97656-4662: Tem vários tutoriais de como fazer na internet
+26/11/2020 16:25 - +55 11 94980-1499: Aaah boa
+26/11/2020 16:25 - +55 11 94980-1499: Daora
+26/11/2020 16:26 - +55 11 95461-8728: Noss ele ta salvando
+26/11/2020 16:27 - +55 11 97656-4662: É q isso q ele ta fazendo n ajuda em nada kkkk
+26/11/2020 16:27 - +55 11 97656-4662: Pq não funciona pra fazer direto pra tudo
+26/11/2020 16:27 - +55 11 97656-4662: Ia ter q fazer cada linha uma por uma
+26/11/2020 16:27 - +55 11 97656-4662: To esperando chegar na parte q importa kkk
+26/11/2020 16:28 - +55 19 99816-3392: Nao
+26/11/2020 16:28 - +55 11 95461-8728: Noss pra mim ele ta me dando uma nocao do q fazer q eu nao tinha
+26/11/2020 16:28 - +55 19 99816-3392: Pq pra vc fazer pra tudo é so usar o famoso for, range e etc
+26/11/2020 16:29 - +55 11 97656-4662: Mas esse é o jeito ruim
+26/11/2020 16:29 - +55 11 97656-4662: Tem jeito mais fácil
+26/11/2020 16:29 - +55 11 97656-4662: Usando pandas
+26/11/2020 16:29 - +55 11 97656-4662: Eu só não sei como é kkk
+26/11/2020 16:29 - +55 19 99816-3392: Ah, é o q eu sei
+26/11/2020 16:29 - +55 19 99816-3392: Hauauauahauay
+26/11/2020 16:29 - +55 19 99816-3392: Usaria isso
+26/11/2020 16:29 - +55 11 97656-4662: Se ele só ensinar assim vai ter q ser isso msm
+26/11/2020 16:30 - +55 19 99816-3392: Pede pra ele usar o pandas
+26/11/2020 16:30 - +55 11 97656-4662: Sim, vou esperar ele acabar
+26/11/2020 16:31 - +55 11 97656-4662: Pq já perguntei como fazer de uma vez e ele disse q ia chegar lá ainda
+26/11/2020 16:33 - +55 11 97656-4662: Acabou a energia aqui em casa
+26/11/2020 16:34 - +55 11 97656-4662: Caiu minha chamada
+26/11/2020 16:34 - +55 11 97656-4662: Q merda kkk
+26/11/2020 16:35 - +55 19 99816-3392: Sorte q ele começou a gravar
+26/11/2020 16:35 - +55 11 95461-8728: Sim eu pedi pq eu tenho q sair agora
+26/11/2020 16:37 - +55 11 97656-4662: Se ele perguntar por mim avisa q caiu aqui pls, depois eu vejo o vídeo
+26/11/2020 16:37 - +55 11 97656-4662: Meu 3g não vai aguentar a aula
+26/11/2020 16:40 - +55 19 99816-3392: Ele começou a explicar do pandas
+26/11/2020 16:41 - +55 11 97656-4662: 😭
+26/11/2020 16:58 - +55 19 99816-3392: É super de boa
+26/11/2020 16:58 - +55 19 99816-3392: Ele nem sabia e procurou no Google na hora achou e mostrou
+26/11/2020 17:00 - +55 11 97656-4662: Top, dps eu vejo o video
+26/11/2020 17:00 - +55 11 97656-4662: Eu imaginava q era simples msm, eu já fiz com .csv, mas com txt não é igual kkk aí não tava dando certo
+26/11/2020 17:01 - +55 19 99816-3392: <Arquivo de mídia oculto>
+26/11/2020 17:02 - +55 11 97656-4662: Ahh boaa
+26/11/2020 17:02 - +55 11 97656-4662: Valeu
+26/11/2020 17:03 - +55 19 99816-3392: Depois de importar o pandas
+26/11/2020 22:09 - +55 11 94980-1499: Pessoal eu posso ficar com a parte dos graficos
+26/11/2020 22:09 - +55 11 94980-1499: fazer histogramas, dias com maior atividade
+26/11/2020 22:09 - +55 11 94980-1499: agrupar em semanas, segundas feiras
+26/11/2020 22:12 - +55 11 94980-1499: quando tivermos os dados agrupados e filtrados eu dou inicio essa parte
+26/11/2020 22:13 - +55 11 94980-1499: conversei com um amigo é não é mto dificil fica pronto relativamente rapido
+26/11/2020 22:13 - +55 11 94980-1499: posso ajudar tbm na apresentação e no pitch pro professor quando tudo estiver pronto
+26/11/2020 22:16 - +55 11 94980-1499: plotando os graficos
+30/11/2020 13:22 - +55 11 97656-4662: Galera, terminei minha parte
+30/11/2020 13:22 - +55 11 97656-4662: Agora a @5514996840418 precisa filtrar os dados no dataframe, tirar as linhas irrelevantes
+30/11/2020 13:23 - +55 11 97656-4662: https://colab.research.google.com/drive/1krW5uTP3vzZLUWBFm1MZpCpxBFNt2iNn?usp=sharing
+30/11/2020 13:23 - Você mudou a descrição do grupo
+30/11/2020 23:05 - +55 11 97656-4662: Você apagou essa mensagem
+30/11/2020 23:32 - +55 11 97656-4662: Gente, pra facilitar a importação do arquivo txt criei um drive compartilhado pra colocar lá, aí não precisa nem vcs baixarem o arquivo e nem mudar o código toda vez q vcs forem abrir aí... pra isso preciso do email de vocês (*tem que ser* o mesmo que vocês vão usar no colab e no drive)
+Daí quando vcs rodarem o código ele vai "montar" o drive lá pra vcs e é só rodar
+30/11/2020 23:36 - +55 11 97656-4662: Quando vcs forem rodar, vai ter uma célula com "from google.colab import drive..." vcs vão rodar essa célula e fazer o que ele mandar: o colab vai retornar um link pra vcs clicarem e fazer login *nesse mesmo email q vcs vão me mandar* e um código pra vcs copiarem e colarem lá no colab na saída dessa mesma célula
+01/12/2020 22:48 - +55 14 99684-0418: migos eu consegui fazer minha parte já, mas quero ver com o prof se tem um jeito mais funcional/bonitinho pra ela kkk vou ver isso amanhã a tarde já aviso aqui quando o link do colab estiver atualizado certinho
+01/12/2020 22:53 - +55 19 99816-3392: nossa show, ja vou começar a minha parte hoje
+01/12/2020 22:59 - +55 11 94980-1499: Okk vou começar a minha em sequência
+01/12/2020 22:59 - +55 11 94980-1499: Já com os dados filtrados
+02/12/2020 00:00 - +55 11 95461-8728: Tb
+03/12/2020 00:15 - +55 19 99816-3392: Gente,
+03/12/2020 00:15 - +55 19 99816-3392: alguem me ajuda com o programa
+03/12/2020 00:15 - +55 19 99816-3392: eu coloquei meu codigo e rodei mas as outras linhas estao dando erro
+03/12/2020 00:15 - +55 19 99816-3392: <Arquivo de mídia oculto>
+03/12/2020 00:16 - +55 19 99816-3392: @5511976564662 como q resolve ?
+03/12/2020 00:18 - +55 11 97656-4662: .
+03/12/2020 00:18 - +55 11 97656-4662: Ninguém me mandou o email
+03/12/2020 00:19 - +55 19 99816-3392: opa
+03/12/2020 00:19 - +55 19 99816-3392: shaushausha
+03/12/2020 00:19 - +55 19 99816-3392: risos
+03/12/2020 00:19 - +55 19 99816-3392: o meu é iago.bonafe@usp.br
+03/12/2020 00:20 - +55 11 97656-4662: Vou colocar lá
+03/12/2020 00:20 - +55 19 99816-3392: show, valeu
+03/12/2020 00:20 - +55 11 97656-4662: Mas vc tem q usar esse email pra tudo do projeto, ok? A Vanessa tinha errado o dela e ficou um tempao tentando descobrir o erro kkk
+03/12/2020 00:20 - +55 19 99816-3392: blz
+03/12/2020 00:21 - +55 19 99816-3392: é o q eu uso pra tudo mesmo
+03/12/2020 00:21 - +55 19 99816-3392: entao ta show
+03/12/2020 00:21 - +55 11 97656-4662: Pronto
+03/12/2020 00:21 - +55 11 97656-4662: Acho q é só rodar msm, não sei se tem q aceitar convite e tal
+03/12/2020 00:22 - +55 19 99816-3392: rodei e deu bom
+03/12/2020 00:22 - +55 19 99816-3392: show
+03/12/2020 00:22 - +55 11 97656-4662: Boa 😁
+03/12/2020 00:41 - +55 11 94980-1499: guilhermyw@usp.br
+03/12/2020 00:45 - +55 11 97656-4662: Pronto
+03/12/2020 00:45 - +55 11 95461-8728: Vdd esqueci, leonardosagara@usp.br
+03/12/2020 00:46 - +55 11 97656-4662: 👍🏻
+03/12/2020 14:22 - +55 11 97656-4662: @5514996840418 @5519998163392 vcs vão falar algo?
+03/12/2020 14:23 - +55 14 99684-0418: Vou, mas a hora que chegar em casa e abrir o pc  só
+03/12/2020 14:27 - +55 19 99816-3392: queria
+03/12/2020 14:27 - +55 19 99816-3392: pq to com um probleminha com o indice do pandas
+03/12/2020 14:27 - +55 19 99816-3392: nao consigo mexer nele
+03/12/2020 14:30 - +55 11 97656-4662: Boa, só pra confirmar msm se a gente teria algo pra falar de diferente
+03/12/2020 14:31 - +55 11 97656-4662: Ah e outra coisa, eu comecei a fazer uns slides pra gente apresentar
+03/12/2020 14:31 - +55 11 97656-4662: To terminando minha parte e aí mando o link pra vcs
+03/12/2020 14:34 - +55 19 99816-3392: perfeito
+03/12/2020 14:57 - +55 19 99816-3392: Gente, eu vou criar mais uma coluna no nosso df, blz ??
+03/12/2020 14:57 - +55 19 99816-3392: Eu vou separar a hora dos minutos
+03/12/2020 14:58 - +55 19 99816-3392: pra poder fazer a contagem de qual horario o grupo é mais ativo mais facil
+03/12/2020 14:58 - +55 19 99816-3392: pode ser ??
+03/12/2020 14:58 - +55 11 97656-4662: Ta bom
+03/12/2020 15:07 - +55 11 97656-4662: https://docs.google.com/presentation/d/1P0v84W3Y00XIzGp5oP8PJw8I2G_fu91t8JDnOzXFP7E/edit?usp=sharing
+03/12/2020 15:08 - +55 11 97656-4662: A gente precisa pensar num nome pro programa tb
+03/12/2020 15:26 - +55 11 97656-4662: ~1- Tratar os dados (fazer o dataframe) - *Ju*~
+~2 - Filtrar os dados (excluir informações irrelevantes) - *Nessa*~
+3 - Fazer as análises sem gráficos *Iago*
+*Mostrar quais números tem
+*Contar quantas mensagens tem no total
+*Contar quantas vezes aparece o mesmo número (quantas mensagens a msm pessoa mandou)
+4- Fazer os gráficos *Guilherme*
+*Histograma (número x total de mensagens por número)
+*Mostrar os dias de maior atividade (datas q aparecem mais)
+5- Fazer mais gráficos *Leonardo*
+*Quais os horários de maior atividade
+6- Mensagens automáticas *Guilherme*
+
+Entregas:
+- Terminar slides - 
+- Manual (como funciona o programa) - *Juliana e Vanessa*
+- Tutorial (como usar) -
+03/12/2020 15:35 - +55 11 97656-4662: é essa mensagem q ta zuando tudo
+03/12/2020 15:36 - +55 11 97656-4662: Gente mas na real que a gente nem precisa do conteúdo das mensagens né?
+03/12/2020 15:36 - +55 11 97656-4662: Pq a gente ta analisando a atividade dos contatos
+03/12/2020 15:37 - +55 14 99684-0418: eu acho que não
+03/12/2020 15:37 - +55 14 99684-0418: pq não vamos ver as mensagens mesmo
+03/12/2020 15:39 - +55 11 97656-4662: O que dá pra fazer é só tirar essa coluna de mensagens do df e excluir as linhas que estiverem com 'contatos' vazios
+03/12/2020 15:40 - +55 14 99684-0418: eu acho que se tirar as mensagens as linhas de contato vazio já somem
+03/12/2020 15:40 - +55 14 99684-0418: pq o que ficou vazio foram as linhas que ele criou dividindo aquela mesnagem de cógido
+03/12/2020 15:41 - +55 11 97656-4662: Sim, vdd
+03/12/2020 15:41 - +55 14 99684-0418: ai se tirar as mensagens eu tiro as que tiverem as frases do sistema
+03/12/2020 15:43 - +55 11 97656-4662: @5519998163392 vou mandar uma cópia pro professor
+03/12/2020 15:44 - +55 19 99816-3392: vdd, acredito q nao mesmo
+03/12/2020 15:44 - +55 19 99816-3392: Precisaria se fosse analizar se foi uma msg ou uma imagem ou um sticker
+03/12/2020 15:44 - +55 19 99816-3392: mas acho q faltando 1 semana pra finalizar nao vai rolar fazer isso nao
+03/12/2020 15:45 - +55 19 99816-3392: blz
+03/12/2020 15:46 - +55 11 97656-4662: Ah nem precisa tb kkk
+03/12/2020 15:46 - +55 11 97656-4662: Já mandei l[a
+03/12/2020 15:46 - +55 11 97656-4662: Vou mudar essa parte do código então
+03/12/2020 15:46 - +55 14 99684-0418: belezinha
+03/12/2020 15:52 - +55 19 99816-3392: blz
+03/12/2020 16:28 - +55 11 97656-4662: Gente, acho q rolou
+03/12/2020 16:32 - +55 11 97656-4662: O q não sumiu foi o contato "a" kk não tenho ideia do q pode ser ele
+03/12/2020 16:33 - +55 14 99684-0418: Acho que dá pra tirar do jeito que eu tirei os que eram palavras kkk
+03/12/2020 16:34 - +55 11 97656-4662: Sim, dá, mas tem q ter um motivo pra elas aparecerem
+03/12/2020 16:34 - +55 19 99816-3392: maldito a
+03/12/2020 16:34 - +55 14 99684-0418: O link que tá aqui no grupo tá certo código?
+03/12/2020 16:34 - +55 11 97656-4662: Sim
+03/12/2020 17:02 - +55 19 99816-3392: gente, pega outro grupo pra fazer essa analise
+03/12/2020 17:02 - +55 19 99816-3392: SHAUSHAUSHAUHSUASA
+03/12/2020 17:03 - +55 19 99816-3392: q da menos BO
+03/12/2020 17:15 - +55 11 97656-4662: mano eu pensei nisso kkk mas acho q ele vai embaçar pq ele sabe kkk
+03/12/2020 19:19 - +55 11 97656-4662: Galer
+03/12/2020 19:19 - +55 11 97656-4662: Conseguimos
+03/12/2020 19:20 - +55 11 97656-4662: Tava eu e a Vanessa pensando juntas aqui, agr tá certinho
+03/12/2020 19:20 - +55 11 97656-4662: @5519998163392 a contagem dos contatos parece q ta certa agr
+03/12/2020 19:25 - +55 11 97656-4662: E sobre isso aqui, todo mundo sabe das suas funções né? E sobre as entregas eu vou pegar com a Vanessa pra fazer o manual, aí acho q só precisa de 1 pessoa pra terminar os slides e 2 ficam pra fazer o tutorial (que tb não é pra ser difícil)
+03/12/2020 19:26 - +55 11 97656-4662: @5511954618728 e @5511949801499 aí acho q vcs podem ver se é melhor o Leonado fazer só um dos gráficos msm ou se vcs preferem trocar e um de vcs fica com todos os gráficos e o outro faz a parada das mensagens automáticas
+03/12/2020 19:26 - +55 11 95461-8728: Por mim tanto faz os slides ou o tutorial
+03/12/2020 19:26 - +55 11 95461-8728: Se algm  tiver preferencia
+03/12/2020 19:26 - +55 11 95461-8728: Blz
+03/12/2020 19:36 - +55 19 99816-3392: bbooaaa
+03/12/2020 19:38 - +55 19 99816-3392: nossa, ta perfeito mesmo
+03/12/2020 19:38 - +55 19 99816-3392: Sucesso demais
+03/12/2020 19:39 - +55 19 99816-3392: agora so preciso esperar o professor ver isso dos indices
+03/12/2020 19:40 - +55 19 99816-3392: <Arquivo de mídia oculto>
+03/12/2020 19:40 - +55 19 99816-3392: NICE DEMAIS
+03/12/2020 19:40 - +55 11 97656-4662: Eita, fala pra ele no discord kkk pq eu falei q a gente tinha resolvido tudo 😬 sorry
+03/12/2020 19:40 - +55 19 99816-3392: pelo menos foi assim no começo
+03/12/2020 19:41 - +55 11 97656-4662: Boaa hahah coloca um sort values pra ordenar os números hahahah
+03/12/2020 19:41 - +55 19 99816-3392: blz, to abrindo ele pra fazer
+03/12/2020 19:44 - +55 19 99816-3392: ta ordenado do horario mais falado pro menos
+03/12/2020 19:44 - +55 19 99816-3392: e ai q ta o BO
+03/12/2020 19:44 - +55 19 99816-3392: como o horario esta no indice eu nao consigo mexer em NADA dele
+03/12/2020 19:44 - +55 19 99816-3392: lugar, ordem, colocar em outro lugar
+03/12/2020 19:44 - +55 19 99816-3392: no maximo uso para localizar algo
+03/12/2020 19:44 - +55 19 99816-3392: mais so
+03/12/2020 19:46 - +55 11 97656-4662: Acho q vc consegue usar um drop index
+03/12/2020 19:46 - +55 11 97656-4662: Se quiser né
+03/12/2020 19:46 - +55 11 97656-4662: Não sei se precisa
+03/12/2020 19:46 - +55 11 97656-4662: Como vai fazer representação gráfica acho q nem precisa
+03/12/2020 19:51 - +55 19 99816-3392: mas isso so iria tirar o index, nao //
+03/12/2020 19:51 - +55 19 99816-3392: ??
+03/12/2020 19:51 - +55 19 99816-3392: as informaçoes q estao no index eu quero
+03/12/2020 19:51 - +55 19 99816-3392: sao as informaçoes mais importantes
+03/12/2020 19:54 - +55 11 97656-4662: Ah ta entendi, vdd
+03/12/2020 19:56 - +55 11 97656-4662: Tava olhando uns arquivos q tenho aqui
+03/12/2020 19:57 - +55 11 97656-4662: Acho q o reset_index não exclui as infos q estão lá
+03/12/2020 19:57 - +55 11 97656-4662: df.reset_index()
+03/12/2020 19:58 - +55 19 99816-3392: FUNCIONOU
+03/12/2020 19:58 - +55 19 99816-3392: UUHHHUUULLLL
+03/12/2020 19:58 - +55 19 99816-3392: BOA DEMAIS
+03/12/2020 19:59 - +55 11 97656-4662: Boaa hahahah
+03/12/2020 20:00 - +55 11 97656-4662: Uma dica pra quem tiver dúvidas pra manipular dataframes e pandas é usar esse site https://pandas.pydata.org/pandas-docs/stable/reference/frame.html
+03/12/2020 20:05 - +55 19 99816-3392: pior q eu olhei umas sites assim
+03/12/2020 20:05 - +55 19 99816-3392: e procurei video
+03/12/2020 20:05 - +55 19 99816-3392: mas nao achei nada
+03/12/2020 20:05 - +55 19 99816-3392: acho q é pq eu tava procurando por indece e nao por index
+03/12/2020 20:05 - +55 19 99816-3392: *indice
+03/12/2020 20:13 - +55 19 99816-3392: <Arquivo de mídia oculto>
+03/12/2020 20:14 - +55 19 99816-3392: Essa mensagem foi apagada
+03/12/2020 20:14 - +55 19 99816-3392: ~1- Tratar os dados (fazer o dataframe) - *Ju*~
+~2 - Filtrar os dados (excluir informações irrelevantes) - *Nessa*~
+~3 - Fazer as análises sem gráficos *Iago*~
+~*Mostrar quais números tem~
+~*Contar quantas mensagens tem no total~
+~*Contar quantas vezes aparece o mesmo número (quantas mensagens a msm pessoa mandou)~
+4- Fazer os gráficos *Guilherme*
+*Histograma (número x total de mensagens por número)
+*Mostrar os dias de maior atividade (datas q aparecem mais)
+5- Fazer mais gráficos *Leonardo*
+*Quais os horários de maior atividade
+6- Mensagens automáticas *Guilherme*
+
+Entregas:
+- Terminar slides - Iago
+- Manual (como funciona o programa) - *Juliana e Vanessa*
+- Tutorial (como usar) -
+03/12/2020 20:15 - +55 11 97656-4662: Boaa
+03/12/2020 20:32 - +55 11 94980-1499: Eu faço todos os gráficos
+03/12/2020 20:32 - +55 11 94980-1499: Ufaa maior interação hahaha
+03/12/2020 20:33 - +55 11 97656-4662: Boa, @5511954618728 vc fica com a parte de msgs automaticas, tudo bem?
+03/12/2020 20:34 - +55 11 97656-4662: Se vc tiver com tempo já da pra começar a pesquisar/fazer, pq não depende das outras partes
+03/12/2020 20:34 - +55 11 95461-8728: Ook me viro aqui
+03/12/2020 20:34 - +55 11 97656-4662: <Arquivo de mídia oculto>
+03/12/2020 22:24 - +55 11 94980-1499: Quando eu fizer os histogramas, os gráficos coloco no nosso colab e no drive
+03/12/2020 22:24 - +55 11 94980-1499: Vou fazer esse fim de semana que to mais livre
+03/12/2020 22:25 - +55 11 94980-1499: Vocês acham interessante fazer uma mini apresentação no canva
+03/12/2020 22:25 - +55 11 94980-1499: Eu gosto de mexer la e da pra criar apresentações bonitas
+03/12/2020 22:26 - +55 11 94980-1499: Ah vcs ja falaram dos slides, vai ficar com @5519998163392
+03/12/2020 22:26 - +55 11 94980-1499: Se quiser ajuda
+03/12/2020 22:30 - +55 11 97656-4662: Já criei, é só terminar e colocar os graficos dps
+03/12/2020 22:30 - +55 11 94980-1499: Okk vou dar uma olhada
+03/12/2020 22:31 - +55 11 94980-1499: Acabei de ver, daora curti
+03/12/2020 22:31 - +55 11 94980-1499: Ficou bem clean
+03/12/2020 22:31 - +55 11 94980-1499: Parabéns Ju
+03/12/2020 22:32 - +55 11 94980-1499: <Arquivo de mídia oculto>
+03/12/2020 22:32 - +55 11 94980-1499: <Arquivo de mídia oculto>
+03/12/2020 22:33 - +55 19 99816-3392: Gosto demais do canvas tbm
+03/12/2020 22:34 - +55 19 99816-3392: Mas não sei onde a @5511976564662 começou
+03/12/2020 22:34 - +55 11 97656-4662: Aqui @5519998163392
+03/12/2020 22:34 - +55 19 99816-3392: Canvas é voda
+03/12/2020 22:34 - +55 11 94980-1499: Mto top o Canvas
+03/12/2020 22:34 - +55 11 94980-1499: Sei que não tem nada a ver mas hoje fiz uma live narrando o jogo do são paulo
+03/12/2020 22:34 - +55 11 94980-1499: Fiz essa arte de fundo
+03/12/2020 22:35 - +55 11 94980-1499: <Arquivo de mídia oculto>
+03/12/2020 22:35 - +55 11 94980-1499: Simples mais bonita
+03/12/2020 22:35 - +55 11 97656-4662: Se quiser passar tudo pro canva tudo bem, eu curto o doc pq da pra editar ao msm tempo, o canva tem q editar um de cada vez
+03/12/2020 22:35 - +55 11 97656-4662: Mas tanto faz
+03/12/2020 22:40 - +55 19 99816-3392: Não tem nao
+03/12/2020 22:40 - +55 19 99816-3392: Da pra editar junto tbm
+03/12/2020 22:40 - +55 19 99816-3392: Mas se já ta pronto ta suave
+03/12/2020 22:40 - +55 19 99816-3392: Mo retrabalho passar pro canva agora
+03/12/2020 22:41 - +55 11 97656-4662: Ele não salva se editar ao msm tempo
+03/12/2020 22:49 - +55 19 99816-3392: Ué, eu ja editei com mais 5 pessoas ao mesmo tempo
+03/12/2020 22:49 - +55 19 99816-3392: E salvou de geral
+03/12/2020 22:49 - +55 19 99816-3392: Fazendo trabalho de última hora
+03/12/2020 22:49 - +55 19 99816-3392: Hauauauauuaah
+03/12/2020 22:49 - +55 11 97656-4662: Ah então é recente a mudança, até a última vez q tentei não dava
+03/12/2020 22:49 - +55 19 99816-3392: Deve ser
+03/12/2020 22:50 - +55 19 99816-3392: Foi esse semestre
+03/12/2020 22:50 - +55 19 99816-3392: Lá em setembro
+07/12/2020 14:08 - +55 11 97656-4662: Boa tarde galera, ta rolando fazer a parte de vcs @5511949801499 e @5511954618728 ? A Vanessa e eu já começamos a fazer o manual e já tá quase pronto, precisa incluir ainda o que fala da parte de vocês só
+07/12/2020 14:08 - +55 11 97656-4662: Pls não deixem pra última hora rs se não vai ferrar a gente
+07/12/2020 14:19 - +55 11 95461-8728: blz de boa ja andei pesquisando mas to esperado a resposta no email do luiz pra algumas duvidas minhas
+07/12/2020 17:37 - +55 11 94980-1499: Opa eu ja to terminando
+07/12/2020 17:37 - +55 11 94980-1499: Amanhã consigo enviar pra vcs
+07/12/2020 17:37 - +55 11 94980-1499: Não precisa se preocupar
+07/12/2020 17:38 - +55 11 97656-4662: Manda no discord, acho q alguém vai responder mais rápido
+07/12/2020 17:38 - +55 11 97656-4662: Boa galera
+08/12/2020 10:52 - +55 11 95461-8728: Boa tinha esquecido ja
+08/12/2020 23:14 - +55 11 95461-8728: Eae rapaziada, mano deixa eu dar um feed pra vcs, eu falei com o luiz e assim primeiro que ele nao entende do assunto entao ele nao sanou nenhuma duvida minha e pra mandar a msg automaticamente precisa criar um bot pra iss. Soh q o python nao consegue sozinho mexer no seu navegador entao tem q baixar umas extensoes e um driver proprio do navegador o q ja complica pq a pessoa tem q baixar antes essas coisas e rodar o codigo com essa funcoes habilitadas e mesmo q eu deixe uma nota avisando, se ela usa outro navegador q nao o chrome q foi o q eu usei nao funciona alem dela tem q ja ter instalado previamente
+08/12/2020 23:17 - +55 11 95461-8728: Mas o maior problema eh q como eh um bot ele precisa dos nomes das referencias que o seu computador da pra barra de digitar pra ele poder clicar nela e escrever, e do nome do botao de enviar a mensagem, soh q o nome dessas referencias muda de computador pra computador e soh da pra ver usando o f12, e assm pode ate haver um jeito mirabolante do python achar sozinho esses dados do f12 mas foge mt do q eu sei e estudei de python pro projeto
+08/12/2020 23:18 - +55 11 95461-8728: Eu to esperando o luiz me responder por mais q ele nao entenda sobre como a gente faz ele falou pra deixar como comentario ou opcao de ativar ou nao mas mesmo q a pessoa ative ela precisa ver o nome das referencias e tals
+08/12/2020 23:19 - +55 11 95461-8728: Me desculpem a incopentencia no assunto mas eram soh metodos q eu nao tinha visto antes foi osso
+08/12/2020 23:25 - +55 19 99816-3392: Relaxa mano
+08/12/2020 23:25 - +55 19 99816-3392: Eu não duvido q isso seja algo bem complexo mesmo, ta tranquilo
+08/12/2020 23:25 - +55 19 99816-3392: Eu lembro q alguém comentou q dava pra fazer mas realmente deve ser foda, entao ta suave
+08/12/2020 23:26 - +55 19 99816-3392: So de ter tentado ta otimo
+08/12/2020 23:26 - +55 19 99816-3392: Bora focar na apresentação mesmo
+08/12/2020 23:57 - +55 11 97656-4662: Acho q ta de boa também se não rolou, talvez fosse ficar avançado demais pra uma matéria de 1 semestre kk acho que o prof vai entender
+08/12/2020 23:58 - +55 11 97656-4662: Assim q o Guilherme terminar as análises gráficas a gente termina o manual e apresentação
+08/12/2020 23:59 - +55 11 97656-4662: E o tutorial né
+08/12/2020 23:59 - +55 11 97656-4662: Vamo focar nisso agr, como o Iago falou
+09/12/2020 11:54 - +55 14 99684-0418: migos, só pra me situar então, o código tá pronto?
+09/12/2020 13:51 - +55 11 94980-1499: Sim sim só falta eu entregar os gráfico
+09/12/2020 13:54 - +55 14 99684-0418: tooop
+09/12/2020 16:13 - +55 19 99816-3392: Gente, como vai funcionar a apresentação amanhã??
+09/12/2020 16:13 - +55 19 99816-3392: Quem vai falar o q ??
+09/12/2020 16:13 - +55 19 99816-3392: E temos quanto tempo ?
+09/12/2020 18:07 - +55 11 95461-8728: A gente podia vender o peixe no começou
+09/12/2020 18:07 - +55 11 95461-8728: Explicando o pq a gente escolheu fazer esse projeto
+09/12/2020 18:07 - +55 11 95461-8728: Colocar algumas possibilidades de usos praticos
+09/12/2020 18:07 - +55 11 95461-8728: Um pouco do manual tb
+09/12/2020 18:14 - +55 11 97656-4662: Como q ta indo o tutorial?
+09/12/2020 18:15 - +55 11 97656-4662: Acho q são 10 min, vou confirmar
+09/12/2020 18:30 - +55 11 97656-4662: @5511949801499 e ai? Como ta?
+09/12/2020 18:32 - +55 11 97656-4662: O professor falou na aula q a apresentação é como se fosse pra gente "vender" pra ele o programa, então acho que o foco não é muito na nossa motivação, mas de pq usar o código, o que ele faz e quais os benefícios e aplicações
+09/12/2020 18:33 - +55 11 97656-4662: A gente pode sugerir por exemplo que fosse usado pra medir engajamento de alunos quando professores usam WhatsApp pra se comunicar com a turma
+09/12/2020 18:34 - +55 11 95461-8728: Boa
+09/12/2020 18:34 - +55 11 97656-4662: Ou até no trabalho pra um líder mapear quem ta mais ou menos engajado
+09/12/2020 18:35 - +55 11 97656-4662: Acho q a gente consegue pensar em mais aplicações práticas quando as análises do @5511949801499 estiverem prontas
+09/12/2020 18:42 - +55 11 94980-1499: oi @5511976564662 , como tenho algms dificuldades em python to me reunindo com um veterano as 19h e ele vai me ajudar
+09/12/2020 18:42 - +55 11 94980-1499: fica pronto hoje sem falta
+09/12/2020 18:46 - +55 11 97656-4662: Mas falta mt? manda aqui q a gente ajuda
+09/12/2020 18:48 - +55 11 94980-1499: nao falta mto so alguns erros que deu no meu code
+09/12/2020 18:48 - +55 11 94980-1499: mas ja termino com ele
+09/12/2020 18:49 - +55 11 94980-1499: se ficar algm coisa faltando eu falo aqui
+09/12/2020 18:50 - +55 11 97656-4662: Ok
+09/12/2020 19:07 - +55 19 99816-3392: Pode servir tambem para ver qual o horario mais ativo do grupo para saber o melhor horario para se mandar alguma informação importante
+09/12/2020 19:11 - +55 11 97656-4662: Boa, tb
+09/12/2020 21:16 - +55 11 94980-1499: galeraaaaa
+09/12/2020 21:16 - +55 11 94980-1499: terminei
+09/12/2020 21:16 - +55 11 94980-1499: ufa
+09/12/2020 21:16 - +55 11 94980-1499: fiz tres graficos
+09/12/2020 21:17 - +55 11 94980-1499: deram um pouco de trabalho com a ajuda do meu veterano consegui todas
+09/12/2020 21:17 - +55 11 94980-1499: deem uma olhada la no colab, no codigo
+09/12/2020 21:17 - +55 11 94980-1499: vou acrescentar ainda titulo e subtitulo e ajustar o tamanho pra ficar bem visual
+09/12/2020 21:30 - +55 11 94980-1499: pronto agora ta perfeito
+09/12/2020 21:31 - +55 11 94980-1499: acho que ficou mto bom, foi mal o atraso galera eu realmente tinha mta coisa da facul pra fazer essa semana
+09/12/2020 21:31 - +55 11 97656-4662: Boa, já olho
+09/12/2020 21:50 - +55 14 99684-0418: Tooop
+09/12/2020 21:50 - +55 14 99684-0418: Amanhã cedo já olho tbmm
+10/12/2020 00:14 - +55 11 97656-4662: Acabei de ver aqui e ficou ótimo
+10/12/2020 00:14 - +55 11 97656-4662: Eu exportei nossa conversa de agora e substituí na que tava lá na análise pra ver se daria certo e deu, o q é bom kkk
+10/12/2020 00:15 - +55 11 97656-4662: Gente e o tutorial? @5511954618728 e @5511949801499 rs
+10/12/2020 00:24 - +55 19 99816-3392: nice demais
+10/12/2020 00:25 - +55 19 99816-3392: Agora de noite eu ja vou terminar os slides
+10/12/2020 00:25 - +55 19 99816-3392: pegar os graficos e colocar la
+10/12/2020 00:26 - +55 11 97656-4662: Show
+10/12/2020 00:26 - +55 11 97656-4662: Vou ver agr o negócio da licença
+10/12/2020 00:31 - +55 19 99816-3392: blz
+10/12/2020 00:31 - +55 19 99816-3392: ou
+10/12/2020 00:31 - +55 11 94980-1499: Temos que adiantar os tutoriais tbm ?
+10/12/2020 00:31 - +55 19 99816-3392: uma coisa
+10/12/2020 00:31 - +55 11 94980-1499: Como tem que fazer não tava manjando dessa parte
+10/12/2020 00:31 - +55 19 99816-3392: Eu vou colocar os graficos q tao la no slide
+10/12/2020 00:32 - +55 11 94980-1499: Boaa
+10/12/2020 00:32 - +55 19 99816-3392: vc nao acha meio pala deixar alguns contatos com o nome ??
+10/12/2020 00:32 - +55 11 97656-4662: É q das entregas só vcs q ficaram sem coisas
+10/12/2020 00:32 - +55 11 94980-1499: Aah entendi ok
+10/12/2020 00:32 - +55 19 99816-3392: pq tipo, o professor pode achar q a Nessa nao fez muita coisa do trabalho pq o nome dela ta la falando que ela foi quem menos mandou msg no grupo
+10/12/2020 00:32 - +55 11 94980-1499: Me explica oq tem que fazer do tutorial que eu adianto agr na madruga
+10/12/2020 00:32 - +55 19 99816-3392: @5511976564662 nao acho bom tirar isso ?
+10/12/2020 00:32 - +55 11 97656-4662: Vou mudaar
+10/12/2020 00:32 - +55 11 94980-1499: Não coloca nome
+10/12/2020 00:32 - +55 19 99816-3392: Eu nao sei exportar meu whats pra TXT
+10/12/2020 00:32 - +55 11 94980-1499: Nos gráficos não tem nome
+10/12/2020 00:32 - +55 19 99816-3392: preciso desse tutorial tbm
+10/12/2020 00:32 - +55 19 99816-3392: SAUSHAUSHAUHSUAHSA
+10/12/2020 00:33 - +55 11 97656-4662: Vou mandar o manual aqui tb perai
+10/12/2020 00:33 - +55 11 94980-1499: Eu não sei mto sobre a parte de vcs só oq eu li lá e pude compreender
+10/12/2020 00:33 - +55 11 94980-1499: Pra fazer um tutoriao
+10/12/2020 00:34 - +55 11 97656-4662: O tutorial é só de como usar de forma simples pelo q entendi
+10/12/2020 00:34 - +55 11 95461-8728: Mosquei
+10/12/2020 00:34 - +55 11 94980-1499: Entendi
+10/12/2020 00:34 - +55 11 95461-8728: @5511949801499 vamo dividir ai
+10/12/2020 00:34 - +55 11 95461-8728: Sl como kkkm mas vamo
+10/12/2020 00:34 - +55 19 99816-3392: Sim, eu tbm entendi isso
+10/12/2020 00:34 - +55 11 97656-4662: Então meio q é só falar pra pessoa como faz pra importar o arquivo e tal e como interpretar os gráficos, acho q rola colocqr essas sugestões de utilização q falamos mais cedo tb
+10/12/2020 00:34 - +55 11 97656-4662: No manual já ta escrito essa parte de como importar
+10/12/2020 00:35 - +55 11 95461-8728: Vc pode mandar o manual?? Pra me dar um norte kkk
+10/12/2020 00:35 - +55 11 97656-4662: Aí vcs podem se orientar por lá e falar de forma mais simples
+10/12/2020 00:35 - +55 11 95461-8728: Isso
+10/12/2020 00:35 - +55 11 94980-1499: okk
+10/12/2020 00:35 - +55 11 94980-1499: vendo o manual vou entender melhor
+10/12/2020 00:35 - +55 11 97656-4662: Vou mandar, calma kkk to na cozinha
+10/12/2020 00:35 - +55 11 94980-1499: qual a diferença pratica do manual pro tutorial
+10/12/2020 00:35 - +55 19 99816-3392: @5511976564662 vc tirando o nome dos graficos me avisa q dai eu ja faço os slides
+10/12/2020 00:36 - +55 19 99816-3392: na minha cabeça um tutorial é mais direto e simples
+10/12/2020 00:36 - +55 19 99816-3392: enquanto um manual é mais técnico e detalhado
+10/12/2020 00:36 - +55 19 99816-3392: mas assim, to falando so o q eu acho
+10/12/2020 00:36 - +55 19 99816-3392: nao sei se ta certo nao
+10/12/2020 00:36 - +55 11 94980-1499: ah sim tipo um tutorial do youtub
+10/12/2020 00:36 - +55 11 97656-4662: Manual https://docs.google.com/document/d/1yIKwP_EuG0unNEn1FTF1XqbftFfoIZPAvt3h-qPWJ8Y/edit?usp=sharing
+10/12/2020 00:36 - +55 11 94980-1499: e um manual que vem com a geladeira
+10/12/2020 00:36 - +55 11 95461-8728: Blz a gente combinou q eu vou fazer essa parte ja q a minha nao vai entrar
+10/12/2020 00:36 - +55 19 99816-3392: tutorial tem so o essencial, tipo so o passo a passo
+10/12/2020 00:37 - +55 11 95461-8728: E ele vai me ajudar se eu tiver duvida
+10/12/2020 00:37 - ‎+55 11 94980-1499 mudou a descrição do grupo
+10/12/2020 00:37 - +55 11 94980-1499: coloquei na descricao o manual
